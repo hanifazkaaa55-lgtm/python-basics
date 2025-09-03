@@ -1,4 +1,4 @@
 # python 3 Dasar
 
 
-wewewewewe
+baru.py
